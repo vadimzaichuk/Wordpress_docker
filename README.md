@@ -1,4 +1,4 @@
-# WordPress + MariaDB + phpMyAdmin (Docker)
+﻿# WordPress + MariaDB + phpMyAdmin (Docker)
 
 A minimal, official-images-only stack for running WordPress with a MariaDB
 database and phpMyAdmin, managed by Docker Compose.
@@ -67,8 +67,8 @@ docker compose version
 ### 1. Get the project onto the server
 
 ```bash
-git clone https://github.com/<your-account>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/vadimzaichuk/Wordpress_docker.git
+cd <Wordpress_docker>
 ```
 
 If you copied the files manually (without git), just `cd` into the folder that
